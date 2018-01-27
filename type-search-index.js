@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AuthorFilter"},{"p":"<Unnamed>","l":"BibtexEntry"},{"p":"<Unnamed>","l":"BibtexParser"},{"p":"<Unnamed>","l":"CategoryFilter"},{"p":"<Unnamed>","l":"Filter"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Presenter"}]

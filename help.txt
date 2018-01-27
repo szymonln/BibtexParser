@@ -1,0 +1,9 @@
+Help for BibtexDB by Szymon Lichon
+
+Program args example:
+[filePath][Categories to filter][Authors to filter][presenter's char]
+
+Enter arguments in given order to have the program working.
+This implementation provides support for string variables in
+fields' values. It shows all entries by default.
+
